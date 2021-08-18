@@ -1,0 +1,91 @@
+.Loyal-title{
+    font-family: 'Bree Serif', serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 3px brown;
+    font-size: 35px;
+    color: #ef4b4c;
+}
+.Loyal-title:hover{
+    transition: 1000ms;
+    transform: scale(1.2);
+    color: #ef4b4c;
+    text-shadow: 2px 2px 3px #dddada;
+}
+.nav-link-fonts{
+    font-family: 'Source Serif Pro', serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #e9e9eb;
+    margin: 5px 20px;
+    padding: 2px;
+}
+.nav-link-fonts:hover{
+    color: #ef4b4c;
+    transition: 1000ms;
+}
+.Loyal-footer-title{
+    font-family: 'Bree Serif', serif;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px brown;
+    font-size: 30px;
+    color: #ef4b4c;
+    transition: transform ease 0.3s;
+}
+.Loyal-footer-title:hover{
+    transition: 1000ms;
+    transform: scale(1.2);
+    color: #ef4b4c;
+}
+// Fonts
+.L-tit1{
+    font-size: 50px;
+    font-family: 'Bree Serif', serif;
+}
+.L-tit2{
+    font-size: 30px;
+    font-family: 'Bree Serif', serif;
+    color: #e9e9eb ;
+    text-shadow: 1px 1px 2px #3a4054;
+}
+.L-tit2:hover{
+    color: #ef4b4c;
+    transition: 1000ms;
+    transform: scale(1.2);
+    text-shadow: 1px 2px 4px #e9e9eb;
+}
+.L-tit3{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.footer-fonts{
+    a{
+        font-family: 'Source Serif Pro', serif;
+        font-weight: bold;
+        font-size: 16px;
+        color: #e9e9eb;
+        margin: 10px 10px;
+        padding: 5px;
+    }
+}
+.footer-fonts:hover{
+    a{
+        color: #ef4b4c;
+        transition: 1000ms;
+    }
+}
+.pg-cont-title{
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 23px;
+    padding: 10px;
+    background-color: #aac9ce;
+    border-color: #aac9ce;
+    border-radius: 5px;
+    h2{
+        color: #ef4b4c;
+        font-family: 'Bree Serif', serif;
+        border-bottom: 1px solid #ef4b4c;
+        padding: 5px;
+    }
+}

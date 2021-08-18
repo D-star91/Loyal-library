@@ -1,0 +1,98 @@
+
+.footer-title{
+    margin-top: 2px;
+    border-top: 2px solid #aac9ce;
+    border-bottom: 2px solid #aac9ce;
+    padding: 10px 0;
+}
+.copy{
+    border-top: 2px solid #aac9ce;
+}
+.social{
+    border-left: 2px solid #aac9ce;
+    border-right: 2px solid #aac9ce;
+}
+.loyal-main{
+    background-size: cover;
+    // background-image: url(/image/background_2.jpg);
+    background-color: #aac9ce;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+    background-position: center;
+}
+.pg-title{
+    margin: 50px 10px;
+    padding: 15px;
+    h1{
+        font-family: 'Bree Serif', serif;
+        color: #ef4b4c;
+    }
+
+}
+.contant{
+    background-color: #b6b4c2;
+    height: 200px;
+}
+.cnt-card{
+    margin-top: -25px;
+}
+.img{
+    max-width: 100%;
+    height: auto;
+    padding-left: 20px;
+    padding: 8px;
+}
+.see-botn{
+    margin: 10px;
+    text-align: center;
+}
+.second-contant{
+    background-color: #f3dbcf;
+}
+// free-library
+.library-free-main{
+    background-color: #f4bbbb;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100%;
+}
+.lb-title{
+    padding: 30px;
+    text-align: center;
+
+}
+.library-free-contant{
+    padding-bottom: 20px;
+}
+.l-banner{
+    background-color: #aadfe6;
+    border: 1px solid #919191;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.lb-menu{
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+    border-bottom: 2px solid #315449;
+    border-top: 2px solid #315449;
+    ul{
+        display: inline;
+    }
+    li{
+        display: inline-block;
+        text-align: center;
+        font-weight: bold;
+        font-size: 14px;
+        margin-left: 5px;
+        padding: 5px;
+    }
+}
+.lb-pagination{
+    margin: 5px;
+    padding: 8px;
+}

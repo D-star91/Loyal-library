@@ -1,0 +1,57 @@
+.botn{
+        display: inline-block;
+        font-family: 'Source Serif Pro', serif;
+        font-weight: bold;
+        line-height: 1.5;
+        color: #dc3545;
+        text-align: center;
+        text-decoration: none;
+        vertical-align: middle;
+        cursor: pointer;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+        background-color: transparent;
+        border: 2px solid transparent;
+        padding: .375rem .75rem;
+        font-size: 14px;
+        border-radius: .25rem;
+        transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.botn-donate{
+    color: #5fbf7f;
+    border-color: #5fbf7f;
+}
+.botn-donate:hover{
+    color: #f5ebde;
+    border-color: #5fbf7f;
+    background-color: #5fbf7f;
+}
+.lib-sem{
+    color: #355c7d;
+    border-color: #355c7d;
+    width: 500px;
+}
+.lib-sem:hover{
+    color: #f5ebde;
+    border-color: #355c7d;
+    background-color: #355c7d;
+}
+.botn-link{
+    color: #ff7582;
+    border-color: #ff7582;
+}
+.botn-link:hover{
+    color: #f5ebde;
+    border-color: #ff7582;
+    background-color: #ff7582;
+}
+.botn-menu{
+    color: #315449;
+    border-color: #315449;
+}
+.botn-menu:hover{
+    color: #f5ebde;
+    border-color: #315449;
+    background-color: #315449;
+}
