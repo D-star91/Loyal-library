@@ -32,13 +32,16 @@
                 </ul>
               </li>
               <li class="nav-item">
-                  <a class="nav-link-fonts" href="#">Prayer</a>
+                  <a class="nav-link-fonts" href="{{route('prayer')}}">Prayer</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link-fonts" href="#">About</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link-fonts" href="#">Content</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link-fonts" href="#">Donater</a>
               </li>
           </ul>
         </div>

@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\Homecontroller;
 use App\Http\Controllers\Librarycontroller;
+use App\Http\Controllers\Prayercontroller;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -21,3 +22,6 @@ Route::get('/',[Homecontroller::class,'index'])->name("index");
 // Library
 Route::get('/free_books',[Librarycontroller::class,'freebook'])->name("free_books");
 Route::get('/free_books_page-2',[Librarycontroller::class,'freepg_2'])->name("freepg_2");
+
+// Prayer
+Route::get('/prayer',[Prayercontroller::class,'prayer'])->name("prayer");
