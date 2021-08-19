@@ -77,6 +77,7 @@
               <ul class="footer-ul mt-2">
                 <li class="d-inline footer-fonts p-2"><a href="">About</a></li>
                 <li class="d-inline footer-fonts p-2"><a href="">Contact</a></li>
+                <li class="d-inline footer-fonts p-2"><a href="">Donations</a></li>
                 <li class="d-inline footer-fonts p-2"><a href="">Terms of Servise</a></li>
                 <li class="d-inline footer-fonts p-2"><a href="">Privacy Policy</a></li>
               </ul>

@@ -19,7 +19,7 @@
                     <a href="">
                         <div class="card cnt-card">
                             <div class="card-body">
-                                <h5 class="card-title">Special title treatment</h5>
+                                <h5 class="card-title L-tit3">ဆုတောင်းခြင်းဖြင့်ပါဝင်မည်</h5>
                                     <p class="card-text">
                                         With supporting text below as a natural lead-in to additional content.
                                      </p>
@@ -31,7 +31,7 @@
                     <a href="">
                         <div class="card cnt-card">
                             <div class="card-body">
-                                <h5 class="card-title">Special title treatment</h5>
+                                <h5 class="card-title L-tit3">ခွန်အားယူစရာကျမ်းပိုဒ်များ</h5>
                                     <p class="card-text">
                                          With supporting text below as a natural lead-in to additional content.
                                     </p>
@@ -43,7 +43,7 @@
                     <a href="">
                         <div class="card cnt-card">
                             <div class="card-body">
-                                <h5 class="card-title">Special title treatment</h5>
+                                <h5 class="card-title L-tit3">လက်တွေ့လေ့လာသမ္မာကျမ်းစာ</h5>
                                     <p class="card-text">
                                         With supporting text below as a natural lead-in to additional content.
                                      </p>
