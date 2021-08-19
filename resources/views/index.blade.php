@@ -28,7 +28,7 @@
                     </a>
                 </div>
                 <div class="col-sm-4">
-                    <a href="">
+                    <a href="{{route('verse')}}">
                         <div class="card cnt-card">
                             <div class="card-body">
                                 <h5 class="card-title L-tit3">ခွန်အားယူစရာကျမ်းပိုဒ်များ</h5>
