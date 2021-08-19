@@ -110,6 +110,10 @@
   padding: 5px;
 }
 
+.py-form-1 {
+  padding: 10px;
+}
+
 .botn {
   display: inline-block;
   font-family: "Source Serif Pro", serif;
@@ -178,6 +182,17 @@
   color: #f5ebde;
   border-color: #315449;
   background-color: #315449;
+}
+
+.botn-py {
+  color: #69f0c5;
+  border-color: #69f0c5;
+}
+
+.botn-py:hover {
+  color: #f5ebde;
+  border-color: #69f0c5;
+  background-color: #69f0c5;
 }
 
 .footer-title {
@@ -301,4 +316,38 @@
 .py-title {
   padding: 30px;
   text-align: center;
+}
+
+.py-form {
+  margin-top: 13px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #cac8c8;
+  border-radius: 5px;
+  -webkit-box-shadow: 5px 5px 18px 5px #cac8c8;
+          box-shadow: 5px 5px 18px 5px #cac8c8;
+}
+.py-form h3 {
+  font-family: "Source Serif Pro", serif;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 3px;
+  color: #ef4b4c;
+  text-shadow: 2px 1px 1px #315449;
+}
+.py-form p {
+  font-size: 10px;
+  color: #ef4b4c;
+}
+.py-form label {
+  font-size: 13px;
+  font-weight: bold;
+}
+.py-form select {
+  font-size: 13px;
+  font-weight: bold;
+}
+.py-form option {
+  font-size: 13px;
+  font-weight: bold;
 }

@@ -110,3 +110,37 @@
     padding: 30px;
     text-align: center;
 }
+
+.py-form{
+    margin-top: 13px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #cac8c8;
+    border-radius: 5px;
+    box-shadow: 5px 5px 18px 5px #cac8c8;
+    h3{
+        font-family: 'Source Serif Pro', serif;
+        font-weight: bold;
+        font-size: 30px;
+        padding: 3px;
+        color: #ef4b4c;
+        text-shadow: 2px 1px 1px #315449;
+    }
+    p{
+        font-size: 10px;
+        color: #ef4b4c;
+
+    }
+    label{
+        font-size: 13px;
+        font-weight: bold;
+    }
+    select{
+        font-size: 13px;
+        font-weight: bold;
+    }
+    option{
+        font-size: 13px;
+        font-weight: bold;
+    }
+}
