@@ -55,138 +55,138 @@
         </div>
     </div>
     <div class="second-contant">
-    <div class="container">
-    <div class="row">
-            <div class="col-md-12">
-                <div class="pg-cont-title">
-                    <h2>Loyal Library</h2>
-                    <p>သင်၏အသက်တာအတွက် ဖတ်ရှုလိုက်ပါ</p>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="pg-cont-title">
+                        <h2>Loyal Library</h2>
+                        <p>သင်၏အသက်တာအတွက် ဖတ်ရှုလိုက်ပါ</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                            <img src="/image/Change.jpeg"alt="..." class="img"/>
+                            </div>
+                            <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">
+                                This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.
+                                </p>
+                                <a href="#" class="botn botn-link">Go somewhere</a>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                            <img src="/image/Food.jpeg" alt="..."  class="img"/>
+                            </div>
+                            <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">
+                                This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.
+                                </p>
+                                <a href="#" class="botn botn-link">Go somewhere</a>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                            <img src="/image/Happy.jpeg" alt="..."  class="img"/>
+                            </div>
+                            <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">
+                                This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.
+                                </p>
+                                <a href="#" class="botn botn-link">Go somewhere</a>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                            <img src="/image/love.png"alt="..." class="img"/>
+                            </div>
+                            <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">
+                                This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.
+                                </p>
+                                <a href="#" class="botn botn-link">Go somewhere</a>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                            <img src="/image/W.png" alt="..."  class="img"/>
+                            </div>
+                            <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">
+                                This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.
+                                <a href="#" class="botn botn-link">Go somewhere</a>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                            <img src="/image/Are You Happy.png" alt="..."  class="img"/>
+                            </div>
+                            <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">
+                                This is a wider card with supporting text below as a natural lead-in to
+                                additional content. This content is a little bit longer.
+                                </p>
+                                <a href="#" class="botn botn-link">Go somewhere</a>
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="see-botn">
+                <a href="{{route('free_books')}}" class="botn lib-sem">See More...</a>
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="card mb-3" style="max-width: 540px;">
-                    <div class="row g-0">
-                        <div class="col-md-4">
-                        <img src="/image/Change.jpeg"alt="..." class="img"/>
-                        </div>
-                        <div class="col-md-8">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">
-                            This is a wider card with supporting text below as a natural lead-in to
-                            additional content. This content is a little bit longer.
-                            </p>
-                            <a href="#" class="botn botn-link">Go somewhere</a>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card mb-3" style="max-width: 540px;">
-                    <div class="row g-0">
-                        <div class="col-md-4">
-                        <img src="/image/Food.jpeg" alt="..."  class="img"/>
-                        </div>
-                        <div class="col-md-8">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">
-                            This is a wider card with supporting text below as a natural lead-in to
-                            additional content. This content is a little bit longer.
-                            </p>
-                            <a href="#" class="botn botn-link">Go somewhere</a>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card mb-3" style="max-width: 540px;">
-                    <div class="row g-0">
-                        <div class="col-md-4">
-                        <img src="/image/Happy.jpeg" alt="..."  class="img"/>
-                        </div>
-                        <div class="col-md-8">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">
-                            This is a wider card with supporting text below as a natural lead-in to
-                            additional content. This content is a little bit longer.
-                            </p>
-                            <a href="#" class="botn botn-link">Go somewhere</a>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="card mb-3" style="max-width: 540px;">
-                    <div class="row g-0">
-                        <div class="col-md-4">
-                        <img src="/image/love.png"alt="..." class="img"/>
-                        </div>
-                        <div class="col-md-8">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">
-                            This is a wider card with supporting text below as a natural lead-in to
-                            additional content. This content is a little bit longer.
-                            </p>
-                            <a href="#" class="botn botn-link">Go somewhere</a>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card mb-3" style="max-width: 540px;">
-                    <div class="row g-0">
-                        <div class="col-md-4">
-                        <img src="/image/W.png" alt="..."  class="img"/>
-                        </div>
-                        <div class="col-md-8">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">
-                            This is a wider card with supporting text below as a natural lead-in to
-                            additional content. This content is a little bit longer.
-                            <a href="#" class="botn botn-link">Go somewhere</a>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card mb-3" style="max-width: 540px;">
-                    <div class="row g-0">
-                        <div class="col-md-4">
-                        <img src="/image/Are You Happy.png" alt="..."  class="img"/>
-                        </div>
-                        <div class="col-md-8">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">
-                            This is a wider card with supporting text below as a natural lead-in to
-                            additional content. This content is a little bit longer.
-                            </p>
-                            <a href="#" class="botn botn-link">Go somewhere</a>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="see-botn">
-            <a href="{{route('free_books')}}" class="botn lib-sem">See More...</a>
-            </div>
-        </div>
-    </div>
     </div>
     
 </x-layout>

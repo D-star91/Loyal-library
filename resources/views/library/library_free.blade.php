@@ -34,33 +34,49 @@
                 </div>
             </div>
             <div class="row mb-3">
-                <div class="col-md-3 ">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-2 ">
+                    <div class="card" style="width: 10rem;">
                         <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
                         <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Happy.jpeg" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Food.jpeg" class="img-pg" alt="..."/></a>
+                        <div class="card-body">
+                            <h3 class="L-tit3">Card title</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Food.jpeg" class="img-pg" alt="..."/></a>
+                        <div class="card-body">
+                            <h3 class="L-tit3">Card title</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Food.jpeg" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
@@ -68,33 +84,49 @@
                 </div>
             </div>
             <div class="row mb-3">
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/love.png" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/W.png" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Are You Happy.png" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Change.jpeg" class="img-pg" alt="..."/></a>
+                        <div class="card-body">
+                            <h3 class="L-tit3">Card title</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Change.jpeg" class="img-pg" alt="..."/></a>
+                        <div class="card-body">
+                            <h3 class="L-tit3">Card title</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Change.jpeg" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
@@ -106,34 +138,50 @@
                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos culpa maxime tempore quasi alias molestias corrupti quaerat rem possimus fugit illo doloremque eos odit provident asperiores, quidem voluptatum! Impedit, quisquam!</p>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+            <div class="row mb-3">
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/love.png" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/W.png" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Are You Happy.png" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Change.jpeg" class="img-pg" alt="..."/></a>
+                        <div class="card-body">
+                            <h3 class="L-tit3">Card title</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Change.jpeg" class="img-pg" alt="..."/></a>
+                        <div class="card-body">
+                            <h3 class="L-tit3">Card title</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Change.jpeg" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
@@ -141,33 +189,49 @@
                 </div>
             </div>
             <div class="row mb-3">
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/love.png" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/W.png" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Are You Happy.png" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
-                        <a href=""><img src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" class="card-img-top" alt="..."/></a>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Change.jpeg" class="img-pg" alt="..."/></a>
+                        <div class="card-body">
+                            <h3 class="L-tit3">Card title</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Change.jpeg" class="img-pg" alt="..."/></a>
+                        <div class="card-body">
+                            <h3 class="L-tit3">Card title</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="card" style="width: 10rem;">
+                        <a href=""><img src="/image/Change.jpeg" class="img-pg" alt="..."/></a>
                         <div class="card-body">
                             <h3 class="L-tit3">Card title</h3>
                         </div>
