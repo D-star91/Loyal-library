@@ -25,3 +25,4 @@ Route::get('/free_books_page-2',[Librarycontroller::class,'freepg_2'])->name("fr
 
 // Prayer
 Route::get('/prayer',[Prayercontroller::class,'prayer'])->name("prayer");
+Route::get('/prayer_success',[Prayercontroller::class,'prayer_success'])->name("Pry_succ");
