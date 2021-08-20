@@ -64,3 +64,36 @@
     border-color: #69f0c5;
     background-color: #69f0c5;
 }
+// Bible
+.btn-vs{
+    display: inline-block;
+    font-family: 'Source Serif Pro', serif;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #dc3545;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 2px solid transparent;
+    padding: .375rem .75rem;
+    margin: 5px;
+    font-size: 14px;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    h3{
+        border-radius: 2px;
+        border: 1px solid #b1b0b0;
+        padding: 3px;
+    }
+}
+.btn-vs-link{
+    color: #ff7582; border-color: #ff7582;
+}
+.btn-vs-link:hover{
+    color: #f5ebde; border-color: #ff7582; background-color: #ff7582;
+}

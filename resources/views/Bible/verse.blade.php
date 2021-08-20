@@ -28,10 +28,33 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="vs-card">
-                        <img src="/image/Happy.jpeg" alt="" class="img-vs-card">
-                        <div class="vs-card-title">
-                            <h3>ယုံကြည်ခြင်း</h3>
+                    <div class="vs-card-contant">
+                        <h3>ယနေ့သင်ဘာခံစားချက်ရှိသနည်း?</h3>
+                        <div class="vs-bottom">
+                            <a href="" class="btn-vs btn-vs-link"><h3>ယုံကြည်ခြင်း</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>ချစ်ခြင်း</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>မျှော်လင့်ခြင်း</h3></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="vs-card-contant">
+                        <h3>တစ်လတာကျမ်းချက်များ</h3>
+                        <div class="vs-bottom">
+                            <a href="" class="btn-vs btn-vs-link"><h3>January</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>February</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>March</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>April</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>May</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>June</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>July</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>August</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>September</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>October</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>November</h3></a>
+                            <a href="" class="btn-vs btn-vs-link"><h3>December</h3></a>
                         </div>
                     </div>
                 </div>

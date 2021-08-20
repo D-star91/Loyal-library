@@ -114,6 +114,13 @@
   padding: 10px;
 }
 
+.vs-card-title h3 {
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 10px;
+  padding: 5px;
+}
+
 .botn {
   display: inline-block;
   font-family: "Source Serif Pro", serif;
@@ -193,6 +200,48 @@
   color: #f5ebde;
   border-color: #69f0c5;
   background-color: #69f0c5;
+}
+
+.btn-vs {
+  display: inline-block;
+  font-family: "Source Serif Pro", serif;
+  font-weight: bold;
+  line-height: 1.5;
+  color: #dc3545;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+      user-select: none;
+  background-color: transparent;
+  border: 2px solid transparent;
+  padding: 0.375rem 0.75rem;
+  margin: 5px;
+  font-size: 14px;
+  border-radius: 0.25rem;
+  -webkit-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+}
+.btn-vs h3 {
+  border-radius: 2px;
+  border: 1px solid #b1b0b0;
+  padding: 3px;
+}
+
+.btn-vs-link {
+  color: #ff7582;
+  border-color: #ff7582;
+}
+
+.btn-vs-link:hover {
+  color: #f5ebde;
+  border-color: #ff7582;
+  background-color: #ff7582;
 }
 
 .footer-title {
@@ -402,12 +451,26 @@
   text-align: center;
 }
 
+.vs-card-contant {
+  margin-top: 10px;
+}
+.vs-card-contant h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px;
+  padding: 5px;
+}
+
 .img-vs-card {
-  width: 250px;
-  height: 180px;
+  width: 200px;
+  height: 130px;
   padding: 1px;
   border: 2px solid #aadfe6;
   border-radius: 3px;
-  margin: 10px;
+  margin: 5px;
   background-color: #aadfe6;
+}
+
+.verse-contant-second {
+  background-color: #c4c4c4;
 }

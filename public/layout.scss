@@ -185,12 +185,25 @@
 .verse-banner{
     text-align: center;
 }
+.vs-card-contant{
+    margin-top: 10px;
+    h3{
+        font-size: 18px;
+        font-weight: bold;
+        margin: 10px;
+        padding: 5px;
+    }
+}
+
 .img-vs-card{
-    width: 250px;
-    height: 180px;
+    width: 200px;
+    height: 130px;
     padding: 1px;
     border: 2px solid #aadfe6;
     border-radius: 3px;
-    margin: 10px;
+    margin: 5px;
     background-color: #aadfe6;
+}
+.verse-contant-second{
+    background-color: #c4c4c4;
 }
