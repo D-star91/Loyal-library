@@ -187,12 +187,9 @@
 }
 .vs-card-contant{
     margin-top: 10px;
-    h3{
-        font-size: 18px;
-        font-weight: bold;
-        margin: 10px;
-        padding: 5px;
-    }
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    
 }
 
 .img-vs-card{
@@ -207,3 +204,7 @@
 .verse-contant-second{
     background-color: #c4c4c4;
 }
+.scroll-section {
+    max-height: 200px;
+    overflow-y: auto;
+  }
