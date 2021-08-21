@@ -51,7 +51,7 @@
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
                                     <li><i class="fas fa-file-archive me-2"></i>File-size</li>
                                 </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
+                                <a href="{{route('happy')}}" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                 </div>    
             </div>
             <div class="row justify-content-center">
-                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
+                <div class="card mb-3 " style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">4.Fasting Successfully</div>
                     <div class="row g-0">
                         <div class="col-md-4 mt-2">
@@ -110,13 +110,13 @@
                             <div class="card-body">
                                 <h5 class="lb-title-h5">ထိရောက်သောအစာရှောင်ခြင်း</h5>
                                 <h6 class="lb-title-h6" >Author : Derek Prince</h6>
-                                <a href="" class="lb-btn-ty">life</a>
+                                <a href="" class="lb-btn-ty">life</a><a href="" class="lb-btn-ty">prayer</a>
                                 <ul class="lb-ul-img">
                                     <li><i class="far fa-calendar-alt me-2"></i>Date</li>
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
                                     <li><i class="fas fa-file-archive me-2"></i>File-size</li>
                                 </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
+                                <a href="{{route('fasting')}}" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>

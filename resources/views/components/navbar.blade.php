@@ -1,6 +1,6 @@
 <nav class="navbar navbar-dark bg-dark ">
   <div class="container-fluid">
-    <a class="Loyal-title ms-5 me-auto" href="#">Loyal Land</a>
+    <a class="Loyal-title ms-5 me-auto" href="{{route('index')}}">Loyal Land</a>
   </div>
 </nav>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-sm-top">

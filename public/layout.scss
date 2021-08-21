@@ -111,7 +111,12 @@
     background-color: #aadfe6;
 }
 .img-lb{
-    border: 1px solid #315449;
+    border: 2px solid #315449;
+    max-width: 180px;
+    max-height: 200px;
+    border-radius: 3px;
+    padding: 2px;
+    margin: 5px;
 }
 .lb-card-body{
     margin-top: 5px;
@@ -124,6 +129,9 @@
     li{
         font-size: 12px;
     }
+}
+.fasting-contant{
+    padding-top: 15px;
 }
 
 // Prayer

@@ -129,6 +129,54 @@
   font-family: "Source Serif Pro", serif;
 }
 
+.book-title {
+  padding: 15px;
+  padding-left: 30px;
+  margin-bottom: 15px;
+  -webkit-box-shadow: 1px 1px 15px 1px #e1e1e2;
+          box-shadow: 1px 1px 15px 1px #e1e1e2;
+  border-radius: 5px;
+}
+.book-title h4 {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Source Serif Pro", serif;
+  color: #ef4b4c;
+  padding: 10px;
+  border-bottom: 1px solid #3a4054;
+}
+.book-title h5 {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Source Serif Pro", serif;
+  padding: 10px 0;
+}
+.book-title h5:hover {
+  color: #ef4b4c;
+}
+.book-title p {
+  text-align: justify;
+  font-size: 14px;
+}
+.book-title ul {
+  padding-left: 2px;
+}
+.book-title li {
+  padding: 8px;
+  list-style: none;
+}
+.book-title i {
+  margin-right: 10px;
+  color: #3a4054;
+}
+.book-title a {
+  font-weight: bold;
+  color: #3a4054;
+}
+.book-title a:hover {
+  color: #ef4b4c;
+}
+
 .py-form-1 {
   padding: 10px;
 }
@@ -326,7 +374,7 @@
 }
 
 .lb-btn-ty {
-  font-size: 8px;
+  font-size: 10px;
   border: 1px solid #315449;
   border-radius: 5px;
   padding: 2px 8px;
@@ -481,15 +529,13 @@
   background-color: #aadfe6;
 }
 
-.lb-img {
-  display: inline;
-  max-width: 150px;
-  max-height: 180px;
-  padding: 1px;
-  border: 2px solid #494949;
+.img-lb {
+  border: 2px solid #315449;
+  max-width: 180px;
+  max-height: 200px;
   border-radius: 3px;
-  margin: 10px;
-  background-color: #494949;
+  padding: 2px;
+  margin: 5px;
 }
 
 .lb-card-body {
@@ -504,6 +550,10 @@
 }
 .lb-ul-img li {
   font-size: 12px;
+}
+
+.fasting-contant {
+  padding-top: 15px;
 }
 
 .prayer-main {

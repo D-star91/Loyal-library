@@ -21,8 +21,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/',[Homecontroller::class,'index'])->name("index");
 
 // Library
+// free_book_page
 Route::get('/free_books',[Librarycontroller::class,'freebook'])->name("free_books");
 Route::get('/free_books_page-2',[Librarycontroller::class,'freepg_2'])->name("freepg_2");
+
+// free_books
+Route::get('/fasting_successfully',[Librarycontroller::class,'fasting'])->name("fasting");
+Route::get('/the-way-to-a-happy-life',[Librarycontroller::class,'happy'])->name("happy");
 
 // Prayer
 Route::get('/prayer',[Prayercontroller::class,'prayer'])->name("prayer");

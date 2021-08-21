@@ -106,6 +106,53 @@
     font-weight: bold;
     font-family: 'Source Serif Pro', serif;
 }
+.book-title{
+    padding: 15px;
+    padding-left: 30px;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 15px 1px #e1e1e2;
+    border-radius: 5px;
+    h4{
+        font-size: 18px;
+        font-weight: bold;
+        font-family: 'Source Serif Pro', serif;
+        color: #ef4b4c;
+        padding: 10px;
+        border-bottom: 1px solid #3a4054;
+    }
+    h5{
+        font-size: 18px;
+        font-weight: bold;
+        font-family: 'Source Serif Pro', serif;
+        padding: 10px 0;
+    }
+    h5:hover{
+        color: #ef4b4c;
+    }
+    p{
+        text-align: justify;
+        font-size: 14px;
+    }
+    ul{
+        padding-left: 2px;
+    }
+    li{
+        padding: 8px;
+        list-style: none;
+
+    }
+    i{
+        margin-right: 10px;
+        color: #3a4054;
+    }
+    a{
+        font-weight: bold;
+        color: #3a4054;
+    }
+    a:hover{
+        color: #ef4b4c;
+    }
+}
 // Prayer
 .py-form-1{
     padding: 10px;
