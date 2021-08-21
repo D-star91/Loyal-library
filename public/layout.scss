@@ -102,6 +102,37 @@
     margin: 5px;
     padding: 8px;
 }
+.lb-card{
+    max-width: 300px;
+    padding: 1px;
+    border: 2px solid #aadfe6;
+    border-radius: 3px;
+    margin: 15px;
+    background-color: #aadfe6;
+}
+
+.lb-img{
+    display: inline;
+    max-width: 150px;
+    max-height: 180px;
+    padding: 1px;
+    border: 2px solid #494949;
+    border-radius: 3px;
+    margin: 10px;
+    background-color: #494949;
+}
+.lb-card-body{
+    margin-top: 5px;
+    padding: 10px;
+}
+.lb-ul-img{
+    list-style: none;
+    padding-left: 5px;
+    margin-top: 8px;
+    li{
+        font-size: 12px;
+    }
+}
 
 // Prayer
 .prayer-main{
@@ -191,7 +222,6 @@
     padding-bottom: 10px;
     
 }
-
 .img-vs-card{
     width: 200px;
     height: 130px;

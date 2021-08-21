@@ -138,3 +138,30 @@
 .btn-vs-link3:hover{
     color: #f5ebde; border-color: #4b7a3d; background-color: #4b7a3d;
 }
+// Library
+.lb-btn-ty{
+    font-size: 8px;
+    border: 1px solid #315449;
+    border-radius: 5px;
+    padding: 2px 8px;
+    margin-bottom: 10px;
+    background-color: #315449;
+    color: #dddddd;
+    text-decoration: none;
+    margin-right: 4px;
+}
+.lb-btn-ty:hover{
+    color: #dddddd;
+}
+.lb-btn-down{
+    font-size: 12px;
+    border: 1px solid #315449;
+    border-radius: 2px;
+    padding: 4px 10px;
+    font-weight: bold;
+    color: #315449;
+}
+.lb-btn-down:hover{
+    color: #dddddd;
+    background-color: #315449;
+}

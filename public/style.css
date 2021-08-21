@@ -110,6 +110,25 @@
   padding: 5px;
 }
 
+.lb-title-h4 {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Source Serif Pro", serif;
+  color: #ef4b4c;
+}
+
+.lb-title-h5 {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Source Serif Pro", serif;
+}
+
+.lb-title-h6 {
+  font-size: 12px;
+  font-weight: bold;
+  font-family: "Source Serif Pro", serif;
+}
+
 .py-form-1 {
   padding: 10px;
 }
@@ -306,6 +325,36 @@
   background-color: #4b7a3d;
 }
 
+.lb-btn-ty {
+  font-size: 8px;
+  border: 1px solid #315449;
+  border-radius: 5px;
+  padding: 2px 8px;
+  margin-bottom: 10px;
+  background-color: #315449;
+  color: #dddddd;
+  text-decoration: none;
+  margin-right: 4px;
+}
+
+.lb-btn-ty:hover {
+  color: #dddddd;
+}
+
+.lb-btn-down {
+  font-size: 12px;
+  border: 1px solid #315449;
+  border-radius: 2px;
+  padding: 4px 10px;
+  font-weight: bold;
+  color: #315449;
+}
+
+.lb-btn-down:hover {
+  color: #dddddd;
+  background-color: #315449;
+}
+
 .footer-title {
   margin-top: 2px;
   border-top: 2px solid #aac9ce;
@@ -421,6 +470,40 @@
 .lb-pagination {
   margin: 5px;
   padding: 8px;
+}
+
+.lb-card {
+  max-width: 300px;
+  padding: 1px;
+  border: 2px solid #aadfe6;
+  border-radius: 3px;
+  margin: 15px;
+  background-color: #aadfe6;
+}
+
+.lb-img {
+  display: inline;
+  max-width: 150px;
+  max-height: 180px;
+  padding: 1px;
+  border: 2px solid #494949;
+  border-radius: 3px;
+  margin: 10px;
+  background-color: #494949;
+}
+
+.lb-card-body {
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.lb-ul-img {
+  list-style: none;
+  padding-left: 5px;
+  margin-top: 8px;
+}
+.lb-ul-img li {
+  font-size: 12px;
 }
 
 .prayer-main {
