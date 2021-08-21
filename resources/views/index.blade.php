@@ -64,122 +64,135 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card mb-3" style="max-width: 540px;">
-                        <div class="row g-0">
-                            <div class="col-md-4">
-                            <img src="/image/Change.jpeg"alt="..." class="img"/>
-                            </div>
-                            <div class="col-md-8">
+            <div class="row justify-content-center">
+                <div class="card mb-3" style="max-width: 400px;">
+                    <div class="card-header lb-title-h4">The Way to A Happy Life</div>
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="/image/Happy.jpeg" alt="..." class="img-fluid"/>
+                        </div>
+                        <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">
-                                This is a wider card with supporting text below as a natural lead-in to
-                                additional content. This content is a little bit longer.
-                                </p>
-                                <a href="#" class="botn botn-link">Go somewhere</a>
+                                <h5 class="lb-title-h5">ပျော်ရွှင်သောဘဝအသက်တာသို့သွားရာလမ်း</h5>
+                                <h6 class="lb-title-h6" >Author : Name</h6>
+                                <a href="" class="lb-btn-ty">life</a><a href="" class="lb-btn-ty">lesson</a>
+                                <ul class="lb-ul-img">
+                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
+                                    <li><i class="fas fa-users me-2"></i>viwe</li>
+                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
+                                </ul>
+                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
+                        </div>
+                    </div>
+                </div>  
+                <div class="card mb-3" style="max-width: 400px;">
+                    <div class="card-header lb-title-h4">The Change the World School of Prayer</div>
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="/image/Change.jpeg" alt="The Change the World School of Prayer" class="img-fluid"/>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="lb-title-h5">The Change the World School of Prayer</h5>
+                                <h6 class="lb-title-h6" >Author : Dick Eastman</h6>
+                                <a href="" class="lb-btn-ty">prayer</a><a href="" class="lb-btn-ty">lesson</a>
+                                <ul class="lb-ul-img">
+                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
+                                    <li><i class="fas fa-users me-2"></i>viwe</li>
+                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
+                                </ul>
+                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="card mb-3" style="max-width: 540px;">
-                        <div class="row g-0">
-                            <div class="col-md-4">
-                            <img src="/image/Food.jpeg" alt="..."  class="img"/>
-                            </div>
-                            <div class="col-md-8">
+                <div class="card mb-3" style="max-width: 400px;">
+                    <div class="card-header lb-title-h4">BFAM PARY</div>
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="/image/BFAM pray.jpeg" alt="..." class="img-fluid"/>
+                        </div>
+                        <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">
-                                This is a wider card with supporting text below as a natural lead-in to
-                                additional content. This content is a little bit longer.
-                                </p>
-                                <a href="#" class="botn botn-link">Go somewhere</a>
-                            </div>
+                                <h5 class="lb-title-h5">BFAM Pray</h5>
+                                <h6 class="lb-title-h6" >Author : Name</h6>
+                                <a href="" class="lb-btn-ty">prayer</a><a href="" class="lb-btn-ty">lesson</a>
+                                <ul class="lb-ul-img">
+                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
+                                    <li><i class="fas fa-users me-2"></i>viwe</li>
+                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
+                                </ul>
+                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card mb-3" style="max-width: 540px;">
-                        <div class="row g-0">
-                            <div class="col-md-4">
-                            <img src="/image/Happy.jpeg" alt="..."  class="img"/>
-                            </div>
-                            <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">
-                                This is a wider card with supporting text below as a natural lead-in to
-                                additional content. This content is a little bit longer.
-                                </p>
-                                <a href="#" class="botn botn-link">Go somewhere</a>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                </div>    
             </div>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card mb-3" style="max-width: 540px;">
-                        <div class="row g-0">
-                            <div class="col-md-4">
-                            <img src="/image/love.png"alt="..." class="img"/>
-                            </div>
-                            <div class="col-md-8">
+            <div class="row justify-content-center">
+                <div class="card mb-3" style="max-width: 400px;">
+                    <div class="card-header lb-title-h4">Fasting Successfully</div>
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="/image/Food.jpeg" alt="ထိရောက်သောအစာရှောင်ခြင်း" class="img-fluid"/>
+                        </div>
+                        <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">
-                                This is a wider card with supporting text below as a natural lead-in to
-                                additional content. This content is a little bit longer.
-                                </p>
-                                <a href="#" class="botn botn-link">Go somewhere</a>
+                                <h5 class="lb-title-h5">ထိရောက်သောအစာရှောင်ခြင်း</h5>
+                                <h6 class="lb-title-h6" >Author : Derek Prince</h6>
+                                <a href="" class="lb-btn-ty">life</a>
+                                <ul class="lb-ul-img">
+                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
+                                    <li><i class="fas fa-users me-2"></i>viwe</li>
+                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
+                                </ul>
+                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
+                        </div>
+                    </div>
+                </div>  
+                <div class="card mb-3" style="max-width: 400px;">
+                    <div class="card-header lb-title-h4">Pray to Him</div>
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="/image/Prayer.jpeg" alt="ထံတော်သို့ဆုတောင်းပဌနာ" class="img-fluid"/>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="lb-title-h5">ထံတော်သို့ဆုတောင်းပဌနာ</h5>
+                                <h6 class="lb-title-h6" >Author : Dick Eastman</h6>
+                                <a href="" class="lb-btn-ty">prayer</a>
+                                <ul class="lb-ul-img">
+                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
+                                    <li><i class="fas fa-users me-2"></i>viwe</li>
+                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
+                                </ul>
+                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="card mb-3" style="max-width: 540px;">
-                        <div class="row g-0">
-                            <div class="col-md-4">
-                            <img src="/image/W.png" alt="..."  class="img"/>
-                            </div>
-                            <div class="col-md-8">
+                <div class="card mb-3" style="max-width: 400px;">
+                    <div class="card-header lb-title-h4">Cornerstone</div>
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="/image/Cornerstone.jpg" alt="..." class="img-fluid"/>
+                        </div>
+                        <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">
-                                This is a wider card with supporting text below as a natural lead-in to
-                                additional content. This content is a little bit longer.
-                                <a href="#" class="botn botn-link">Go somewhere</a>
-                            </div>
+                                <h5 class="lb-title-h5">တိုက်ထောင့်အမြစ်ကျောက်</h5>
+                                <h6 class="lb-title-h6" >Author : Name</h6>
+                                <a href="" class="lb-btn-ty">lesson</a>
+                                <ul class="lb-ul-img">
+                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
+                                    <li><i class="fas fa-users me-2"></i>viwe</li>
+                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
+                                </ul>
+                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card mb-3" style="max-width: 540px;">
-                        <div class="row g-0">
-                            <div class="col-md-4">
-                            <img src="/image/Are You Happy.png" alt="..."  class="img"/>
-                            </div>
-                            <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">Card title</h5>
-                                <p class="card-text">
-                                This is a wider card with supporting text below as a natural lead-in to
-                                additional content. This content is a little bit longer.
-                                </p>
-                                <a href="#" class="botn botn-link">Go somewhere</a>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                </div>    
             </div>
             <div class="row">
                 <div class="see-botn">

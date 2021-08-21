@@ -15,13 +15,13 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8">
-                    <div class="lb-menu">
+                    <div class="lb-menu d-grid gap-2">
                             <button class="botn botn-menu"  type="button" data-mdb-toggle="collapse" data-mdb-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-                                မာတိကာ
+                                Category
                             </button>
 
                             <!-- Collapsed content -->
-                        <div class="collapse mt-3 mb-3" id="collapseExample">
+                        <div class="collapse show mt-3 mb-3" id="collapseExample">
                             <ul>
                                 <li><a class="botn botn-menu" href="">အသက်တာ</a></li>
                                 <li><a class="botn botn-menu" href="">ဆုတောင်းခြင်း</a></li>
@@ -35,10 +35,10 @@
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">1.The Way to A Happy Life</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/Happy.jpeg" alt="..." class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -56,10 +56,10 @@
                         </div>
                     </div>
                 </div>  
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">2.The Change the World School of Prayer</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/Change.jpeg" alt="The Change the World School of Prayer" class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -77,10 +77,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">3.BFAM PARY</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/BFAM pray.jpeg" alt="..." class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -100,10 +100,10 @@
                 </div>    
             </div>
             <div class="row justify-content-center">
-                <div class="card mb-3" style="max-width: 400px;">
-                    <div class="card-header lb-title-h4">5.Fasting Successfully</div>
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
+                    <div class="card-header lb-title-h4">4.Fasting Successfully</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/Food.jpeg" alt="ထိရောက်သောအစာရှောင်ခြင်း" class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -121,10 +121,10 @@
                         </div>
                     </div>
                 </div>  
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">5.Pray to Him</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/Prayer.jpeg" alt="ထံတော်သို့ဆုတောင်းပဌနာ" class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -142,10 +142,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">6.Cornerstone</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/Cornerstone.jpg" alt="..." class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -170,10 +170,10 @@
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">7.Foundation</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/Foundation.jpg" alt="..." class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -191,10 +191,10 @@
                         </div>
                     </div>
                 </div>  
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">8.Wall</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/Wall Cover.png" alt="Wall" class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -212,10 +212,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">9.Roof</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/Roof cover.png" alt="..." class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -235,10 +235,10 @@
                 </div>    
             </div>
             <div class="row justify-content-center">
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">10.Walking in The Light</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/light.jpeg" alt="..." class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -256,10 +256,10 @@
                         </div>
                     </div>
                 </div>  
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">The Change the World School of Prayer</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/Change.jpeg" alt="The Change the World School of Prayer" class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
@@ -277,10 +277,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="card mb-3" style="max-width: 400px;">
+                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">BFAM PARY</div>
                     <div class="row g-0">
-                        <div class="col-md-4">
+                        <div class="col-md-4 mt-2">
                             <img src="/image/BFAM pray.jpeg" alt="..." class="img-fluid"/>
                         </div>
                         <div class="col-md-8">
