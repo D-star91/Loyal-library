@@ -75,7 +75,7 @@
                             <div class="card-body">
                                 <h5 class="lb-title-h5">ပျော်ရွှင်သောဘဝအသက်တာသို့သွားရာလမ်း</h5>
                                 <h6 class="lb-title-h6" >Author : Name</h6>
-                                <a href="" class="lb-btn-ty">life</a><a href="" class="lb-btn-ty">lesson</a>
+                                <a href="{{route('life')}}" class="lb-btn-ty">life</a><a href="{{route('lesson')}}" class="lb-btn-ty">lesson</a>
                                 <ul class="lb-ul-img">
                                     <li><i class="far fa-calendar-alt me-2"></i>Date</li>
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
@@ -96,13 +96,13 @@
                             <div class="card-body">
                                 <h5 class="lb-title-h5">The Change the World School of Prayer</h5>
                                 <h6 class="lb-title-h6" >Author : Dick Eastman</h6>
-                                <a href="" class="lb-btn-ty">prayer</a><a href="" class="lb-btn-ty">lesson</a>
+                                <a href="{{route('prayer_book')}}" class="lb-btn-ty">prayer</a><a href="{{route('lesson')}}" class="lb-btn-ty">lesson</a>
                                 <ul class="lb-ul-img">
                                     <li><i class="far fa-calendar-alt me-2"></i>Date</li>
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
                                     <li><i class="fas fa-file-archive me-2"></i>File-size</li>
                                 </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
+                                <a href="{{route('the_change')}}" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
@@ -117,13 +117,13 @@
                             <div class="card-body">
                                 <h5 class="lb-title-h5">BFAM Pray</h5>
                                 <h6 class="lb-title-h6" >Author : Name</h6>
-                                <a href="" class="lb-btn-ty">prayer</a><a href="" class="lb-btn-ty">lesson</a>
+                                <a href="{{route('prayer_book')}}" class="lb-btn-ty">prayer</a><a href="{{route('lesson')}}" class="lb-btn-ty">lesson</a>
                                 <ul class="lb-ul-img">
                                     <li><i class="far fa-calendar-alt me-2"></i>Date</li>
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
                                     <li><i class="fas fa-file-archive me-2"></i>File-size</li>
                                 </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
+                                <a href="{{route('BFAM_pray')}}" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
@@ -140,7 +140,7 @@
                             <div class="card-body">
                                 <h5 class="lb-title-h5">ထိရောက်သောအစာရှောင်ခြင်း</h5>
                                 <h6 class="lb-title-h6" >Author : Derek Prince</h6>
-                                <a href="" class="lb-btn-ty">life</a>
+                                <a href="{{route('life')}}" class="lb-btn-ty">life</a>
                                 <ul class="lb-ul-img">
                                     <li><i class="far fa-calendar-alt me-2"></i>Date</li>
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
@@ -161,13 +161,13 @@
                             <div class="card-body">
                                 <h5 class="lb-title-h5">ထံတော်သို့ဆုတောင်းပဌနာ</h5>
                                 <h6 class="lb-title-h6" >Author : Dick Eastman</h6>
-                                <a href="" class="lb-btn-ty">prayer</a>
+                                <a href="{{route('prayer_book')}}" class="lb-btn-ty">prayer</a>
                                 <ul class="lb-ul-img">
                                     <li><i class="far fa-calendar-alt me-2"></i>Date</li>
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
                                     <li><i class="fas fa-file-archive me-2"></i>File-size</li>
                                 </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
+                                <a href="{{route('pray_to_him')}}" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
@@ -182,13 +182,13 @@
                             <div class="card-body">
                                 <h5 class="lb-title-h5">တိုက်ထောင့်အမြစ်ကျောက်</h5>
                                 <h6 class="lb-title-h6" >Author : Name</h6>
-                                <a href="" class="lb-btn-ty">lesson</a>
+                                <a href="{{route('lesson')}}" class="lb-btn-ty">lesson</a>
                                 <ul class="lb-ul-img">
                                     <li><i class="far fa-calendar-alt me-2"></i>Date</li>
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
                                     <li><i class="fas fa-file-archive me-2"></i>File-size</li>
                                 </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
+                                <a href="{{route('cornerstone')}}" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>

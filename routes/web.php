@@ -28,6 +28,14 @@ Route::get('/free_books_page-2',[Librarycontroller::class,'freepg_2'])->name("fr
 // free_books
 Route::get('/fasting_successfully',[Librarycontroller::class,'fasting'])->name("fasting");
 Route::get('/the-way-to-a-happy-life',[Librarycontroller::class,'happy'])->name("happy");
+Route::get('/BFAM_pray',[Librarycontroller::class,'BFAM_pray'])->name("BFAM_pray");
+Route::get('/cornerstone',[Librarycontroller::class,'cornerstone'])->name("cornerstone");
+Route::get('/pray_to_him',[Librarycontroller::class,'pray_to_him'])->name("pray_to_him");
+Route::get('/roof',[Librarycontroller::class,'roof'])->name("roof");
+Route::get('/the_Change_the_world_school_of_prayer',[Librarycontroller::class,'the_change'])->name("the_change");
+Route::get('/walking',[Librarycontroller::class,'walking'])->name("walking");
+Route::get('/wall',[Librarycontroller::class,'wall'])->name("wall");
+Route::get('/foundation',[Librarycontroller::class,'foundation'])->name("foundation");
 
 // Category
 Route::get('/life',[Librarycontroller::class,'life'])->name("life");

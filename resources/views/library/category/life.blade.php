@@ -45,7 +45,7 @@
                             <div class="card-body">
                                 <h5 class="lb-title-h5">ပျော်ရွှင်သောဘဝအသက်တာသို့သွားရာလမ်း</h5>
                                 <h6 class="lb-title-h6" >Author : Name</h6>
-                                <a href="" class="lb-btn-ty">life</a><a href="" class="lb-btn-ty">lesson</a>
+                                <a href="{{route('life')}}" class="lb-btn-ty">life</a><a href="{{route('lesson')}}" class="lb-btn-ty">lesson</a>
                                 <ul class="lb-ul-img">
                                     <li><i class="far fa-calendar-alt me-2"></i>Date</li>
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
@@ -66,7 +66,7 @@
                             <div class="card-body">
                                 <h5 class="lb-title-h5">ထိရောက်သောအစာရှောင်ခြင်း</h5>
                                 <h6 class="lb-title-h6" >Author : Derek Prince</h6>
-                                <a href="" class="lb-btn-ty">life</a><a href="" class="lb-btn-ty">prayer</a>
+                                <a href="{{route('life')}}" class="lb-btn-ty">life</a><a href="{{route('prayer_book')}}" class="lb-btn-ty">prayer</a>
                                 <ul class="lb-ul-img">
                                     <li><i class="far fa-calendar-alt me-2"></i>Date</li>
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
@@ -87,13 +87,13 @@
                             <div class="card-body">
                                 <h5 class="lb-title-h5">အလင်း၌ လျှောက်လှမ်းခြင်း</h5>
                                 <h6 class="lb-title-h6" >Author : Unknown</h6>
-                                <a href="" class="lb-btn-ty">life</a>
+                                <a href="{{route('life')}}" class="lb-btn-ty">life</a>
                                 <ul class="lb-ul-img">
                                     <li><i class="far fa-calendar-alt me-2"></i>Date</li>
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
                                     <li><i class="fas fa-file-archive me-2"></i>File-size</li>
                                 </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
+                                <a href="{{route('walking')}}" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
