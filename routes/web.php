@@ -41,6 +41,9 @@ Route::get('/foundation',[Librarycontroller::class,'foundation'])->name("foundat
 Route::get('/life',[Librarycontroller::class,'life'])->name("life");
 Route::get('/lesson',[Librarycontroller::class,'lesson'])->name("lesson");
 Route::get('/pray',[Librarycontroller::class,'prayer_book'])->name("prayer_book");
+Route::get('/spirit',[Librarycontroller::class,'spirit'])->name("spirit");
+Route::get('/marriage',[Librarycontroller::class,'marriage'])->name("marriage");
+Route::get('/child',[Librarycontroller::class,'child'])->name("child");
 
 // Prayer
 Route::get('/prayer',[Prayercontroller::class,'prayer'])->name("prayer");

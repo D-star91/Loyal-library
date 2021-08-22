@@ -55,5 +55,13 @@ class Librarycontroller extends Controller
     function lesson(){
         return view('library.category.lesson');
     }
-        
+    function spirit(){
+        return view('library.category.spirit');
+    }
+    function marriage(){
+        return view('library.category.marriage');
+    }
+    function child(){
+        return view('library.category.child');
+    }
 }

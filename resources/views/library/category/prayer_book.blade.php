@@ -5,7 +5,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <div class="lb-title">
-                        <h2 class="L-tit2">ဆုတောင်းခြင်း</h2>
+                        <h2 class="L-tit2">Prayer</h2>
                     </div>
                 </div>
             </div>
@@ -23,11 +23,12 @@
                             <!-- Collapsed content -->
                         <div class="collapse mt-3 mb-3" id="collapseExample">
                             <ul>
+                                <li><a class="botn botn-menu" href="{{route('free_books')}}">အားလုံး</a></li>
                                 <li><a class="botn botn-menu" href="{{route('life')}}">အသက်တာ</a></li>
                                 <li><a class="botn botn-menu" href="{{route('prayer_book')}}">ဆုတောင်းခြင်း</a></li>
-                                <li><a class="botn botn-menu" href="">အိမ်ထောင်ရေး</a></li>
-                                <li><a class="botn botn-menu" href="">ကလေးသူငယ်</a></li>
-                                <li><a class="botn botn-menu" href="">ဝိညာဉ်ရေးရာ</a></li>
+                                <li><a class="botn botn-menu" href="{{route('marriage')}}">အိမ်ထောင်ရေး</a></li>
+                                <li><a class="botn botn-menu" href="{{route('child')}}">ကလေးသူငယ်</a></li>
+                                <li><a class="botn botn-menu" href="{{route('spirit')}}">ဝိညာဉ်ရေးရာ</a></li>
                                 <li><a class="botn botn-menu" href="{{route('lesson')}}">သင်ခန်းစာ</a></li>
                             </ul>
                         </div>
