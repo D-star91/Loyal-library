@@ -29,6 +29,11 @@ Route::get('/free_books_page-2',[Librarycontroller::class,'freepg_2'])->name("fr
 Route::get('/fasting_successfully',[Librarycontroller::class,'fasting'])->name("fasting");
 Route::get('/the-way-to-a-happy-life',[Librarycontroller::class,'happy'])->name("happy");
 
+// Category
+Route::get('/life',[Librarycontroller::class,'life'])->name("life");
+Route::get('/lesson',[Librarycontroller::class,'lesson'])->name("lesson");
+Route::get('/pray',[Librarycontroller::class,'prayer_book'])->name("prayer_book");
+
 // Prayer
 Route::get('/prayer',[Prayercontroller::class,'prayer'])->name("prayer");
 Route::get('/prayer_success',[Prayercontroller::class,'prayer_success'])->name("Pry_succ");

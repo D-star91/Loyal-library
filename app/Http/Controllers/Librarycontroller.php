@@ -20,4 +20,15 @@ class Librarycontroller extends Controller
     function happy(){
         return view('library.book.happy');
     }
+    // Category
+    function life(){
+        return view('library.category.life');
+    }
+    function prayer_book(){
+        return view('library.category.prayer_book');
+    }
+    function lesson(){
+        return view('library.category.lesson');
+    }
+        
 }

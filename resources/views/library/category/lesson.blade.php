@@ -100,48 +100,6 @@
                 </div>    
             </div>
             <div class="row justify-content-center">
-                <div class="card mb-3 " style="max-width: 400px; background-color:#aadfe6;">
-                    <div class="card-header lb-title-h4">4.Fasting Successfully</div>
-                    <div class="row g-0">
-                        <div class="col-md-4 mt-2">
-                            <img src="/image/Food.jpeg" alt="ထိရောက်သောအစာရှောင်ခြင်း" class="img-fluid"/>
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="lb-title-h5">ထိရောက်သောအစာရှောင်ခြင်း</h5>
-                                <h6 class="lb-title-h6" >Author : Derek Prince</h6>
-                                <a href="" class="lb-btn-ty">life</a><a href="" class="lb-btn-ty">prayer</a>
-                                <ul class="lb-ul-img">
-                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
-                                    <li><i class="fas fa-users me-2"></i>viwe</li>
-                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
-                                </ul>
-                                <a href="{{route('fasting')}}" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>  
-                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
-                    <div class="card-header lb-title-h4">5.Pray to Him</div>
-                    <div class="row g-0">
-                        <div class="col-md-4 mt-2">
-                            <img src="/image/Prayer.jpeg" alt="ထံတော်သို့ဆုတောင်းပဌနာ" class="img-fluid"/>
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="lb-title-h5">ထံတော်သို့ဆုတောင်းပဌနာ</h5>
-                                <h6 class="lb-title-h6" >Author : Dick Eastman</h6>
-                                <a href="" class="lb-btn-ty">prayer</a>
-                                <ul class="lb-ul-img">
-                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
-                                    <li><i class="fas fa-users me-2"></i>viwe</li>
-                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
-                                </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">6.Cornerstone</div>
                     <div class="row g-0">
@@ -162,14 +120,7 @@
                             </div>
                         </div>
                     </div>
-                </div>    
-            </div>
-            <div class="row">
-                <div class="l-banner">
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos culpa maxime tempore quasi alias molestias corrupti quaerat rem possimus fugit illo doloremque eos odit provident asperiores, quidem voluptatum! Impedit, quisquam!</p>
-                </div>
-            </div>
-            <div class="row justify-content-center">
+                </div> 
                 <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">7.Foundation</div>
                     <div class="row g-0">
@@ -211,7 +162,14 @@
                             </div>
                         </div>
                     </div>
+                </div>   
+            </div>
+            <div class="row">
+                <div class="l-banner">
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos culpa maxime tempore quasi alias molestias corrupti quaerat rem possimus fugit illo doloremque eos odit provident asperiores, quidem voluptatum! Impedit, quisquam!</p>
                 </div>
+            </div>
+            <div class="row justify-content-center">
                 <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">9.Roof</div>
                     <div class="row g-0">
@@ -232,74 +190,15 @@
                             </div>
                         </div>
                     </div>
-                </div>    
+                </div> 
+                
             </div>
             <div class="row justify-content-center">
-                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
-                    <div class="card-header lb-title-h4">10.Walking in The Light</div>
-                    <div class="row g-0">
-                        <div class="col-md-4 mt-2">
-                            <img src="/image/light.jpeg" alt="..." class="img-fluid"/>
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="lb-title-h5">အလင်း၌ လျှောက်လှမ်းခြင်း</h5>
-                                <h6 class="lb-title-h6" >Author : Unknown</h6>
-                                <a href="" class="lb-btn-ty">life</a>
-                                <ul class="lb-ul-img">
-                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
-                                    <li><i class="fas fa-users me-2"></i>viwe</li>
-                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
-                                </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>  
-                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
-                    <div class="card-header lb-title-h4">The Change the World School of Prayer</div>
-                    <div class="row g-0">
-                        <div class="col-md-4 mt-2">
-                            <img src="/image/Change.jpeg" alt="The Change the World School of Prayer" class="img-fluid"/>
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="lb-title-h5">The Change the World School of Prayer</h5>
-                                <h6 class="lb-title-h6" >Author : Dick Eastman</h6>
-                                <a href="" class="lb-btn-ty">prayer</a><a href="" class="lb-btn-ty">lesson</a>
-                                <ul class="lb-ul-img">
-                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
-                                    <li><i class="fas fa-users me-2"></i>viwe</li>
-                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
-                                </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
-                    <div class="card-header lb-title-h4">BFAM PARY</div>
-                    <div class="row g-0">
-                        <div class="col-md-4 mt-2">
-                            <img src="/image/BFAM pray.jpeg" alt="..." class="img-fluid"/>
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="lb-title-h5">BFAM Pray</h5>
-                                <h6 class="lb-title-h6" >Author : Name</h6>
-                                <a href="" class="lb-btn-ty">life</a><a href="" class="lb-btn-ty">lesson</a>
-                                <ul class="lb-ul-img">
-                                    <li><i class="far fa-calendar-alt me-2"></i>Date</li>
-                                    <li><i class="fas fa-users me-2"></i>viwe</li>
-                                    <li><i class="fas fa-file-archive me-2"></i>File-size</li>
-                                </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>    
+                 
+                
+                    
             </div>
-            <div class="row justify-content-center">
+            <!-- <div class="row justify-content-center">
                 <div class="col-md-4">
                     <div class="lb-pagination">
                         <nav aria-label="...">
@@ -317,7 +216,7 @@
                         </nav>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 

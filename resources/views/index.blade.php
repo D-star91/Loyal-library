@@ -81,7 +81,7 @@
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
                                     <li><i class="fas fa-file-archive me-2"></i>File-size</li>
                                 </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
+                                <a href="{{route('happy')}}" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
@@ -146,7 +146,7 @@
                                     <li><i class="fas fa-users me-2"></i>viwe</li>
                                     <li><i class="fas fa-file-archive me-2"></i>File-size</li>
                                 </ul>
-                                <a href="" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
+                                <a href="{{route('fasting')}}" class="lb-btn-down"><i class="fas fa-info-circle me-2"></i>Detail</a>
                             </div>
                         </div>
                     </div>
