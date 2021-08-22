@@ -40,24 +40,5 @@
           </ul>
         </div>
     </div>
-    <ul class="navbar-nav d-flex flex-row">
-      <!-- Icons -->
-      <li class="nav-item me-3 me-lg-0">
-        <a class="nav-link" href="#">
-          <i class="fas fa-shopping-cart"></i>
-        </a>
-      </li>
-      <li class="nav-item me-3 me-lg-0">
-        <a class="nav-link" href="#">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-      <!-- Icon dropdown -->
-      <li class="nav-item me-3 me-lg-0">
-        <a class="nav-link dropdown-toggle" href="#" role="button">
-          <i class="fas fa-user"></i>
-        </a>
-      </li>
-    </ul>
   </div>
 </nav>

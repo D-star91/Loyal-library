@@ -1,39 +1,7 @@
-<x-layout>
+<x-liblayout>
 
-    <div class="library-free-main">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-8">
-                    <div class="lb-title">
-                        <h2 class="L-tit2">Loyal Library</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="library-free-contant">
-        <div class="container">
-        <div class="row justify-content-center">
-                <div class="col-md-8">
-                    <div class="lb-menu">
-                            <button class="botn botn-menu"  type="button" data-mdb-toggle="collapse" data-mdb-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-                                Category
-                            </button>
-
-                            <!-- Collapsed content -->
-                        <div class="collapse mt-3 mb-3" id="collapseExample">
-                            <ul>
-                                <li><a class="botn botn-menu" href="">အသက်တာ</a></li>
-                                <li><a class="botn botn-menu" href="">ဆုတောင်းခြင်း</a></li>
-                                <li><a class="botn botn-menu" href="">အိမ်ထောင်ရေး</a></li>
-                                <li><a class="botn botn-menu" href="">ကလေးသူငယ်</a></li>
-                                <li><a class="botn botn-menu" href="">ဝိညာဉ်ရေးရာ</a></li>
-                                <li><a class="botn botn-menu" href="">သင်ခန်းစာ</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
+    <div class="container">
             <div class="row justify-content-center">
                 <div class="card mb-3 me-1" style="max-width: 400px; background-color:#aadfe6;">
                     <div class="card-header lb-title-h4">1.The Way to A Happy Life</div>
@@ -323,4 +291,4 @@
         </div>
     </div>
 
-</x-layout>
+</x-liblayout>
