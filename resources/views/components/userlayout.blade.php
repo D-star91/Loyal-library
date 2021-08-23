@@ -24,46 +24,11 @@
 />
 </head>
 <body>
-<!-- navber -->
+    
+    <!-- navber -->
     <x-usernavbar/>
     
-    <div class="library-free-main">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-8">
-                    <div class="lb-title">
-                        <h2 class="L-tit2">Loyal Library</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="library-free-contant">
-        <div class="container">
-        <div class="row justify-content-center">
-                <div class="col-md-8">
-                    <div class="lb-menu d-grid gap-2">
-                            <button class="botn botn-menu"  type="button" data-mdb-toggle="collapse" data-mdb-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-                                Category
-                            </button>
-
-                            <!-- Collapsed content -->
-                        <div class="collapse show mt-3 mb-3" id="collapseExample">
-                            <ul>
-                                <li><a class="botn botn-menu" href="{{route('free_books')}}">အားလုံး</a></li>
-                                <li><a class="botn botn-menu" href="{{route('life')}}">အသက်တာ</a></li>
-                                <li><a class="botn botn-menu" href="{{route('prayer_book')}}">ဆုတောင်းခြင်း</a></li>
-                                <li><a class="botn botn-menu" href="{{route('marriage')}}">အိမ်ထောင်ရေး</a></li>
-                                <li><a class="botn botn-menu" href="{{route('child')}}">ကလေးသူငယ်</a></li>
-                                <li><a class="botn botn-menu" href="{{route('spirit')}}">ဝိညာဉ်ရေးရာ</a></li>
-                                <li><a class="botn botn-menu" href="{{route('lesson')}}">သင်ခန်းစာ</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
 
     {{$slot}}
 
@@ -149,10 +114,5 @@
   </footer>
   
 
-<!-- MDB -->
-<script
-  type="text/javascript"
-  src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"
-></script>
 </body>
 </html>

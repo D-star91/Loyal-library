@@ -30,6 +30,11 @@
   color: #ef4b4c;
   -webkit-transition: 1000ms;
   transition: 1000ms;
+  border-bottom: 1px solid #ef4b4c;
+}
+
+.lb-active {
+  border-bottom: 1px solid #ef4b4c;
 }
 
 .Loyal-footer-title {
@@ -49,6 +54,19 @@
   transition: 1000ms;
   -webkit-transform: scale(1.2);
           transform: scale(1.2);
+  color: #ef4b4c;
+}
+
+.l-usr {
+  font-family: "Source Serif Pro", serif;
+  font-weight: bold;
+  font-size: 16px;
+  color: #e9e9eb;
+}
+
+.l-usr:hover {
+  -webkit-transition: 1000ms;
+  transition: 1000ms;
   color: #ef4b4c;
 }
 
@@ -468,6 +486,52 @@
 
 .second-contant {
   background-color: #f3dbcf;
+}
+
+.l-usr {
+  font-size: 16px;
+  margin-right: 5px;
+  padding: 5px;
+  margin-top: 5px;
+  color: #e9e9eb;
+}
+
+.l-profile {
+  font-size: 23px;
+  margin-right: 5px;
+  padding: 5px;
+  color: #e9e9eb;
+  margin-top: 5px;
+}
+
+.l-sign {
+  font-size: 17px;
+  margin-top: 3px;
+  margin-right: 5px;
+  padding: 10px;
+  color: #e9e9eb;
+}
+
+.l-sign:hover {
+  color: #ef4b4c;
+  -webkit-transition: 1000ms;
+  transition: 1000ms;
+}
+
+.l-register-form {
+  padding: 10px;
+  margin: 10px 15px;
+}
+.l-register-form h3 {
+  text-align: center;
+}
+
+.l-login-form {
+  padding: 10px;
+  margin: 10px 15px;
+}
+.l-login-form h3 {
+  text-align: center;
 }
 
 .library-free-main {

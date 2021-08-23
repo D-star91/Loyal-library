@@ -1,4 +1,4 @@
-<x-layout>
+<x-userlayout>
 
     <div class="prayer-main">
         <div class="container">
@@ -69,4 +69,4 @@
         </div>
     </div>
 
-</x-layout>
+</x-userlayout>

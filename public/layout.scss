@@ -57,6 +57,49 @@
 .second-contant{
     background-color: #f3dbcf;
 }
+.l-usr{
+    font-size: 16px;
+    margin-right: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    color: #e9e9eb;
+}
+.l-profile{
+    font-size: 23px;
+    margin-right: 5px;
+    padding: 5px;
+    color: #e9e9eb;
+    margin-top: 5px;
+}
+.l-sign{
+    font-size: 17px;
+    margin-top: 3px;
+    margin-right: 5px;
+    padding: 10px;
+    color: #e9e9eb;
+}
+.l-sign:hover{
+    color: #ef4b4c;
+    transition: 1000ms;
+}
+// Register
+.l-register-form{
+    padding: 10px;
+    margin: 10px 15px;
+    h3{
+        text-align: center;
+
+    }
+}
+.l-login-form{
+    padding: 10px;
+    margin: 10px 15px;
+    h3{
+        text-align: center;
+
+    }
+}
+
 // free-library
 .library-free-main{
     background-color: #f4bbbb;

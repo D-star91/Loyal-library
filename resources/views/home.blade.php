@@ -1,4 +1,4 @@
-<x-userlayout>
+<x-layout>
     <div class="loyal-main">
         <div class="container">
             <div class="row">
@@ -202,4 +202,4 @@
         </div>
     </div>
     
-</x-userlayout>
+</x-layout>

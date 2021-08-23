@@ -22,6 +22,10 @@
 .nav-link-fonts:hover{
     color: #ef4b4c;
     transition: 1000ms;
+    border-bottom: 1px solid #ef4b4c;
+}
+.lb-active{
+    border-bottom: 1px solid #ef4b4c;
 }
 .Loyal-footer-title{
     font-family: 'Bree Serif', serif;
@@ -34,6 +38,17 @@
 .Loyal-footer-title:hover{
     transition: 1000ms;
     transform: scale(1.2);
+    color: #ef4b4c;
+}
+.l-usr{
+    font-family: 'Source Serif Pro', serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #e9e9eb;
+
+}
+.l-usr:hover{
+    transition: 1000ms;
     color: #ef4b4c;
 }
 // Fonts

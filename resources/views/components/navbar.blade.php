@@ -1,6 +1,6 @@
 <nav class="navbar navbar-dark bg-dark ">
   <div class="container-fluid">
-    <a class="Loyal-title ms-5 me-auto" href="{{route('index')}}">Loyal Land</a>
+    <a class="Loyal-title ms-5 me-auto" href="{{route('home')}}">Loyal Land</a>
   </div>
 </nav>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-sm-top">
@@ -11,8 +11,8 @@
     <div class="container">
         <div class="collapse navbar-collapse justify-content-center ms-5" id="navbarNav">
           <ul class="navbar-nav ">
-            <li class="nav-item">
-              <a class="nav-link-fonts active" aria-current="page" href="{{route('index')}}">Home</a>
+            <li class="nav-item ">
+              <a class="nav-link-fonts " aria-current="page" href="{{route('home')}}">Home</a>
             </li>
             <!-- Dropdown -->
               <li class="nav-item dropdown">
@@ -39,6 +39,16 @@
               </li>
           </ul>
         </div>
-    </div>
+      </div>
+      <div class="">
+        <ul class="navbar-nav">
+          <li class="nav-item me-1 me-lg-0">
+            <a href="" class=""><i class="far fa-user-circle l-profile"></i></a>
+          </li>
+          <li class="nav-item me-1 me-lg-0">
+            <a href="{{route('login')}}" class="" data-mdb-toggle="tooltip" data-mdb-placement="bottom" title="Sign-up"><i class="fas fa-sign-in-alt l-sign"></i></a>
+          </li>
+        </ul>
+      </div>
   </div>
 </nav>
