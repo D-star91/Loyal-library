@@ -19,7 +19,7 @@ class CreatePraypostsTable extends Migration
             $table->string('name');
             $table->string('pray');
             $table->string('select');
-            $table->longText('message');
+            $table->longText('content');
             $table->timestamps();
         });
     }

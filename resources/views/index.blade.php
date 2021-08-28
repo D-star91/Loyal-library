@@ -19,10 +19,10 @@
                     <a href="">
                         <div class="card cnt-card">
                             <div class="card-body">
-                                <h5 class="card-title L-tit3">ဆုတောင်းခြင်းဖြင့်ပါဝင်မည်</h5>
-                                    <p class="card-text">
-                                        With supporting text below as a natural lead-in to additional content.
-                                     </p>
+                                <h5 class="card-title L-tit3">ဆုတောင်းချက်များ</h5>
+                                   <p class="card-text">
+                                         With supporting text below as a natural lead-in to additional content.
+                                    </p>
                              </div>
                          </div>
                     </a>
@@ -205,11 +205,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
-                    @foreach ($posts as $post )
-                        <h3>{{auth()->user()->title}}</h3>
-                            <a href=""><img src="({{auth()->user()->image}})" alt="" class="img-verse"></a>
-                            <p>{{auth()->user()->content}}</p>
-                    @endforeach
+                    <h5 class="card-title L-tit3">ဆုတောင်းချက်များ</h5>
+                                    
+                                     @foreach ($posts as $post )
+                                     <h5>Name - {{auth()->user()->name}}</h5>
+                                     <h6>Type - {{auth()->user()->pray}}</h6>
+                                     <p>
+                                        {{auth()->user()->content}}
+                                     </p>
+                                        
+                                    @endforeach
                 
                 </div>
             </div>

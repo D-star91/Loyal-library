@@ -15,20 +15,20 @@ class Prayercontroller extends Controller
             "name"=>'required',
             "pray"=>'required',
             "select"=>'required',
-            "message"=>'required',
+            "content"=>'required',
         ]);
         if($validation){
             $name=request('name');
             $pray=request('pray');
             $select=request('select');
-            $message=request('message');
+            $content=request('content');
             
             $praypost=new Praypost();
             $praypost->user_id=auth()->user()->id;
             $praypost->name=$name;
             $praypost->pray=$pray;
             $praypost->select=$select;
-            $praypost->message=$message;
+            $praypost->content=$content;
             $praypost->save();
 
             return redirect()->route("index")->with("message","post added");

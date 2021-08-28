@@ -63,7 +63,7 @@
                         <div class="py-form">
                             <!-- Message input -->
                             <div class="form-outline mb-4">
-                                <textarea class="form-control" id="form4Example3" rows="15" name="message"></textarea>
+                                <textarea class="form-control" id="form4Example3" rows="15" name="content"></textarea>
                                 <label class="form-label" for="form4Example3">ဆုတောင်းချက်များရေးရန်</label>
                             </div>
                             <div class="d-grid gap-2">
