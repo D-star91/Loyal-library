@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\Homecontroller;
 use App\Http\Controllers\Librarycontroller;
+use App\Http\Controllers\PostController;
 use App\Http\Controllers\Prayercontroller;
 use App\Http\Controllers\Versecontroller;
 use Illuminate\Support\Facades\Route;
@@ -28,8 +29,6 @@ Route::middleware('guest')->group(function(){
     Route::post('/login',[Homecontroller::class,'user_login'])->name("user_login");
 });
 
-
-
     // Logout
     Route::get('/logout',[Homecontroller::class,'logout'])->name("logout");
 
@@ -40,7 +39,7 @@ Route::middleware('auth')->group(function(){
     // Library
     // free_book_page
     Route::get('/free_books',[Librarycontroller::class,'freebook'])->name("free_books");
-});
+
 
 
     Route::get('/free_books_page-2',[Librarycontroller::class,'freepg_2'])->name("freepg_2");
@@ -68,7 +67,15 @@ Route::middleware('auth')->group(function(){
 
     // Prayer
     Route::get('/prayer',[Prayercontroller::class,'prayer'])->name("prayer");
+    Route::post('/prayer',[Prayercontroller::class,'pray_post'])->name("pray_post");
     Route::get('/prayer_success',[Prayercontroller::class,'prayer_success'])->name("Pry_succ");
 
     // Verses
     Route::get('/verse',[Versecontroller::class,'verse'])->name("verse");
+
+    // Post
+    Route::get('/verse_post',[PostController::class,'verse_post'])->name("verse_post");
+    Route::post('/verse_post',[PostController::class,'vs_post'])->name("vs_post");
+
+
+});

@@ -113,6 +113,17 @@
     </div>
   </footer>
   
+<!-- MDB -->
+<script
+  type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js"
+></script>
 
+<script>
+  @if (Session('message'))
+      let message="{{Session('message')}}"
+    toastr.success(message);
+  @endif
+</script>
 </body>
 </html>

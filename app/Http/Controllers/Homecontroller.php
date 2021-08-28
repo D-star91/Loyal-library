@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Post;
 use App\Models\User;
 use Illuminate\Foundation\Auth\User as AuthUser;
 use Illuminate\Http\Request;
@@ -11,7 +12,9 @@ use Illuminate\Support\Facades\Hash;
 class Homecontroller extends Controller
 {
     function index(){
-        return view('index');
+        $posts=Post::all();
+        return view('index',['posts'=>$posts]);
+
     }
     
     // User

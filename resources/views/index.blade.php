@@ -201,5 +201,19 @@
             </div>
         </div>
     </div>
+    <div class="third-contant">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    @foreach ($posts as $post )
+                        <h3>{{auth()->user()->title}}</h3>
+                            <a href=""><img src="({{auth()->user()->image}})" alt="" class="img-verse"></a>
+                            <p>{{auth()->user()->content}}</p>
+                    @endforeach
+                
+                </div>
+            </div>
+        </div>
+    </div>
     
 </x-userlayout>

@@ -62,6 +62,8 @@
   font-weight: bold;
   font-size: 16px;
   color: #e9e9eb;
+  margin-right: 8px;
+  margin-left: 8px;
 }
 
 .l-usr:hover {
@@ -496,6 +498,10 @@
   color: #e9e9eb;
 }
 
+.l-li-usr {
+  width: 180px;
+}
+
 .l-profile {
   font-size: 23px;
   margin-right: 5px;
@@ -733,4 +739,12 @@
 .scroll-section {
   max-height: 200px;
   overflow-y: auto;
+}
+
+.creat-post-main {
+  padding: 10px;
+}
+
+.verse_post {
+  padding: 10px;
 }
